@@ -1,3 +1,7 @@
+"""
+Template for writing Metaflows
+"""
+
 import metaflow 
 import pandas as pd
 import numpy as np
