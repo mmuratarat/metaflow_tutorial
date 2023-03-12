@@ -1,0 +1,1 @@
+Metaflow creates a local datastore .metaflow which is where it stores all the run metadata and data snapshots associated with the runs. If you had your cloud settings configured, the data snapshots would exist within an AWS S3 Bucket, and run metadata would be loaded into a Metadata service powered by RDS (Relational Data Store). 
